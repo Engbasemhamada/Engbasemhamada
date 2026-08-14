@@ -77,13 +77,6 @@ A collection of data analysis projects showcasing end-to-end workflows.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Engbasemhamada&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 📫 Let's Connect
 

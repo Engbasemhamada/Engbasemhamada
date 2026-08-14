@@ -7,13 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://engbasemhamada.github.io/Eng.BasemHamada.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-2EA6DA?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/basem-hamada-1a3239302">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Cairo,_Egypt-informational?style=for-the-badge&color=2EA6DA" />
+  <img src="https://img.shields.io/badge/Location-Al_Mansoura,_Egypt-informational?style=for-the-badge&color=2EA6DA" />
 </p>
 
 ---
@@ -39,9 +36,8 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -84,12 +80,7 @@ A collection of data analysis projects showcasing end-to-end workflows.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Engbasemhamada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engbasemhamada&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Engbasemhamada&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Engbasemhamada&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

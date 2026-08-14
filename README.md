@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/basem-hamada-1a3239302">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Cairo,_Egypt-informational?style=for-the-badge&color=2EA6DA" />
+  <img src="https://img.shields.io/badge/Location-AL_mansoura,_Egypt-informational?style=for-the-badge&color=2EA6DA" />
 </p>
 
 ---

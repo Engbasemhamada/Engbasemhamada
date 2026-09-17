@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Basem Hamada 👋</h1>
 
-<h3 align="center">Data Analyst | Machine Learning Enthusiast | Turning Data Into Decisions</h3>
+<h3 align="center">Oracle Developer | PL/SQL & Database Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA6DA&center=true&vCenter=true&width=600&lines=Exploring+Data%2C+Finding+Patterns;Building+Predictive+Models;Turning+Raw+Data+Into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA6DA&center=true&vCenter=true&width=600&lines=Building+Reliable+Database+Solutions;Writing+Efficient+SQL+%26+PL%2FSQL;Turning+Requirements+Into+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,27 +17,27 @@
 
 ### 🧭 About Me
 
-- 📊 **Data Analyst** with a strong focus on **Machine Learning**
-- 🔍 Experienced in exploratory data analysis, data cleaning, and building predictive models
-- 🤖 Passionate about applying ML techniques to solve real-world problems (classification, regression, EDA)
-- 🌱 Committed to continuous learning in data science and AI
-- 🛠️ Comfortable across the full workflow: data collection → cleaning → analysis → modeling → visualization
+- 🗄️ **Oracle Developer** with a strong focus on **SQL & PL/SQL**
+- 🔧 Experienced in writing and optimizing complex queries, stored procedures, and database-driven applications
+- 📐 Skilled in relational database design: normalization, indexing, constraints, and ER modeling
+- 🌱 Currently deepening my expertise in **Oracle Forms & Reports (11g/12c)**
+- 🛠️ Comfortable across the full workflow: requirements analysis → schema design → development → testing → documentation
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=oracle,python,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-00758F?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-013243?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
